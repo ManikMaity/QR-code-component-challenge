@@ -5,5 +5,5 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
  https://manikmaity.github.io/QR-code-component-challenge/
  
  #Screenshoots :
- 1. Desktop
- 2. Mobile
+ 1. Desktop https://i.postimg.cc/h41xKMdT/desktop-design.jpg
+ 3. Mobile
